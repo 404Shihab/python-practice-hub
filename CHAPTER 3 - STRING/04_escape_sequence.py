@@ -1,0 +1,11 @@
+print("Shihab Uddin \n Bhuiyan")
+print("python naki \t c++")
+print('It\'s very easy')
+print("\"python\" or \"cpp\"")
+print("hello\a")
+print("C:\\Users\\Shihab")
+
+print("--------------------")
+print("Name:\t\tShihab")
+print("Department:\tCSE")
+print("University:\tAIUB")
